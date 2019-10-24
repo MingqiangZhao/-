@@ -1,3 +1,3 @@
-# sort_algorithms
+Basic Algorithms
 
-Merge sort and Quick sort template
+
